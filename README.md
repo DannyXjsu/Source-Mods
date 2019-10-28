@@ -9,5 +9,7 @@ Fell free to change whatever you want, i will check if everything is okay and th
 Here are my social medias:
 
 Twitter:  https://twitter.com/dannyxanr
+
 Youtube:  https://www.youtube.com/channel/UC_CN260yKPSLcKFRpYIE2IA
+
 Discord:  [2.sn]#4775
