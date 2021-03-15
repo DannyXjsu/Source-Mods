@@ -1,10 +1,1 @@
-The mod has officially been ported to Mapbase tools, meaning, if you want to mess around with the files, you NEED to have Mapbase installed!
-Here's a link for the official Moddb page:
-
-https://www.moddb.com/mods/mapbase
-
-Opening the maps with vanilla hammer WILL cause problems
-
-Another important note, because of the port, this project also requires Slartibarty's Slammin' Source tools, heres a official link for the download:
-
-https://drive.google.com/drive/folders/1hswQFn_BhwcLd91uBHnGKBPlCtuqPcX5
+Here is where all of my Counter-Strike: Source vmf files will be, it can also include custom content such as props, materials, sounds, etc...
