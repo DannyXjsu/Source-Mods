@@ -1,2 +1,2 @@
 # Counter-Strike: Source
-This is where my maps are going to be
+just couter strick source maps
